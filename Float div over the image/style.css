@@ -1,0 +1,17 @@
+
+.search_course{
+    padding: 25px 0px;
+    margin: -75px 6% 50px;
+    background-color: #a71d2a;
+    position: relative;
+    box-shadow: 0px 0px 10px 7px rgba(0,0,0,0.4);
+}
+
+.search_course .form-control{
+    max-width: 350px;
+    display: inline-flex;
+    margin: 10px 5px;
+    border-radius: 0px;
+}
+
+
