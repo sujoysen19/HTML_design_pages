@@ -1,0 +1,40 @@
+.mynav
+{
+    background-image: url('1.jpg');
+    height: 500px;
+    
+}
+
+.navbar
+{
+    background-color: transparent !important;
+}
+
+.navbar-brand
+{
+    color: white;
+    font-weight: bolder;
+}
+
+.navbar-nav
+{
+    margin: 0 auto;
+}
+
+.dropdown-menu
+{
+    background-color: #b3bdb6;
+}
+
+.mysearch
+{
+    color: white;
+    background-color:green;
+}
+
+
+
+
+
+
+
